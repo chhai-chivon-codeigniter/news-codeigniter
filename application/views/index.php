@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
 <div class="container">
-		<center>News CodeIgniter Web App</center>
+		<center><h2>News CodeIgniter Web App</h2></center>
 </div>
 </body>
 </html>
